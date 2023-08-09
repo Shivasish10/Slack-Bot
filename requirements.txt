@@ -1,0 +1,5 @@
+flask
+slack
+pathlib
+slackeventsapi
+ssl
