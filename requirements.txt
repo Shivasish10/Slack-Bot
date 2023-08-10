@@ -3,3 +3,4 @@ slack
 pathlib
 slackeventsapi
 ssl
+requests
